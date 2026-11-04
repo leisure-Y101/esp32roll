@@ -7,9 +7,9 @@
 
 **把摄像头、双电机、灯环和整套网页控制，塞进一颗会滚的球里**
 
-[![Stars](https://img.shields.io/github/stars/leisure-Y101/PCB?style=social)](https://github.com/leisure-Y101/PCB/stargazers)
-[![Forks](https://img.shields.io/github/forks/leisure-Y101/PCB?style=social)](https://github.com/leisure-Y101/PCB/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/leisure-Y101/PCB)](https://github.com/leisure-Y101/PCB/commits/main)
+[![Stars](https://img.shields.io/github/stars/leisure-Y101/esp32roll?style=social)](https://github.com/leisure-Y101/esp32roll/stargazers)
+[![Forks](https://img.shields.io/github/forks/leisure-Y101/esp32roll?style=social)](https://github.com/leisure-Y101/esp32roll/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/leisure-Y101/esp32roll)](https://github.com/leisure-Y101/esp32roll/commits/main)
 
 ![MCU](https://img.shields.io/badge/MCU-XIAO%20ESP32S3%20Sense-blue)
 ![Driver](https://img.shields.io/badge/Driver-DRV8833-green)
@@ -90,7 +90,7 @@ flowchart LR
 ## 📦 目录结构
 
 ```text
-PCB/
+esp32roll/
 ├── firmware/
 │   └── ESP32-CAM_MJPEG2SD/    Arduino 固件（ESP-ROLL 适配版）
 │       ├── appGlobals.h       板型与功能开关
