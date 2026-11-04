@@ -1,0 +1,20 @@
+# Local originals kept out of the repo (full vendor archive, ~13 MB)
+/_original/
+
+# Arduino / ESP-IDF build artifacts
+build/
+*.elf
+*.map
+*.bin
+*.hex
+.arduino/
+*.tmp
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+*.bak
+*.bak_*
